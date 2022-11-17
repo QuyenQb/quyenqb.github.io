@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome to Pukyung University <a href="http://dangrover.com">website</a>.
+  Welcome to Pukyung University <a href="https://www.pknu.ac.kr/main">website</a>.
 </p>
 
 <p>
